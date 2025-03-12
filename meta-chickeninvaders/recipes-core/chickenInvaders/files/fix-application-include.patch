@@ -1,0 +1,8 @@
+diff --git a/include/engine/application.hpp b/include/engine/application.hpp
+index 1234567..89abcde 100644
+--- a/include/engine/application.hpp
++++ b/include/engine/application.hpp
+@@ -8,6 +8,7 @@
+ #include "engine/thread_finished_event.hpp"
++#include <memory>
+
